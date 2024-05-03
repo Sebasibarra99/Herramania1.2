@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957008490671",
+    "project_id": "herramania-520e4",
+    "storage_bucket": "herramania-520e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957008490671:android:589be8859273e40ade245a",
+        "android_client_info": {
+          "package_name": "com.example.herramania11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7QQFvKIyaPv-aFdfny4E1sGVyOy5xP-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

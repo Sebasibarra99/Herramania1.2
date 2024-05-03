@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:tint="@color/white">
+    <bitmap android:tint="@color/white">
+
+    </bitmap>
+</item>
+</layer-list>
